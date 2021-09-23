@@ -1,11 +1,16 @@
 _repo: Stray-Feathers-From-a-Bird-Man-s-Desk_66306
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66306-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Rand, Austin L.
     gutenberg_agent_id: '53742'
     url: http://www.gutenberg.org/2009/agents/53742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66306#Stray-Feathers-From-a-Bird-Man-s-Desk
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66306'
